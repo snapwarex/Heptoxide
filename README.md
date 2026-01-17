@@ -1,0 +1,1 @@
+Heptoxide malware GDI buatan @pankoza2-pl kini hadir dalam versi Android! Dibuat via Sketchware Pro, aplikasi ini aman & cocok untuk prank dengan visual/audio khas aslinya. Meski lebih simpel dibanding versi Windows karena keterbatasan resource, sensasinya tetap sama. Cek kreator aslinya di GitHub pankoza2-pl. Developer: snapwarex
